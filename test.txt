@@ -12,3 +12,4 @@ This is the other modified line to see that code is pushed
 another line to be pulled out
 pulled date 16-05-2018; time 11:41 AM
 pushed time 11:42 for date 16-05-2018
+This is the line written in git bash dated 29-05-2018
